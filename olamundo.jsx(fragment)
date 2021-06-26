@@ -1,0 +1,11 @@
+import react, {component} from 'react'
+ export default()=>{
+ const informação = 'primeiro componente jsx'
+ return(
+ <div>
+  <h2>componente olamundo</h2>
+  <p> {informaçao} </p>
+  </div>
+  )
+ }
+ 
